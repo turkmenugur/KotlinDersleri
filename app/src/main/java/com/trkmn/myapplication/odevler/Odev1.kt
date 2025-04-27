@@ -1,4 +1,4 @@
-package com.trkmn.myapplication.degiskenler
+package com.trkmn.myapplication.odevler
 
 fun main() {
     var sehir = "Tarsus"
