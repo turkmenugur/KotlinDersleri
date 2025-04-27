@@ -1,0 +1,50 @@
+package com.trkmn.myapplication.degiskenler
+
+fun main() {
+    var sehir = "Tarsus"
+    var ulke = "Türkiye"
+    var telefon = "0500 123 45 67"
+    var postaKodu : Int = 33470
+    var email = "trkmn.ugur.12@gmail.com"
+    var meslek : String = "bilgisayar mühendisi"
+    var stokMiktari : Int = 776
+    var musteriAdi = "Uğur"
+    var bakiye : Double = 1289.75
+    var dogumGunu = "12 Aralık 2001"
+    var maas : Double = 98765.42
+    var medeniDurum = "bekar"
+    var urunYorumu : String = "çok kullanışlı, çok beğendim"
+    var odemeTarihi : String = "25 Nisan 2025"
+    var odeme = "Nakit"
+    var siparisAdedi : Short = 3
+    var arabaModeli : String = "Camaro"
+    var kitapAdi : String = "1984"
+    var yayinlanmaTarihi = "1948"
+    var indirimMiktari : Short = 20
+    var odaSayisi : Short = 30
+    var enlem : Double = 36.25
+    var boylam : Double = 45.0
+    var urunAdi = "HP Victus Laptop"
+    var yemekfiyati: Double = 129.99
+    var marka : String = "HP"
+    var muzikAdi = "La Despedida"
+    var videoSuresi = "44 dakika"
+    var urunPuani : Short = 5
+    var resimAdi = "Mona Lisa"
+    var dosyaFormati = "jpeg"
+    var renkKodu :String = "#FFFFFF"
+    var renk = "siyah"
+    var telefonModeli = "M34"
+    var ekranBoyutu : Double = 6.4
+    var agirlik = 125 //gram
+    var ulusalGun = "29 Ekim"
+    var tatilGunu = "1 Ocak"
+    var rezervasyonTarihi = "26.04.2025"
+    var sokakAdi = "3805 Sokak"
+    var OtobusHatti = "554"
+    var kalanDakika : Int = 320
+    var takipKodu = "H6473S485"
+    var kuponSuresi = 100 //saat
+    var kuponKodu = "56884Z576H4868L"
+    var faturaAdresi = "Tarsus/Mersin"
+}
